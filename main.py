@@ -19,7 +19,6 @@ angka3 = 2
 # hasil_pembagian = angka1 / angka2 / angka3
 # print("Hasil pembagian:", hasil_pembagian)
 
-# # Operasi pemangkatan
 # hasil_pemangkatan = angka1 ** angka2 ** angka3
 # print("Hasil pemangkatan:", hasil_pemangkatan)
 
