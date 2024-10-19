@@ -71,16 +71,15 @@ print(fruit)'''
 buah.insert(0, "anggur")'''
 
 '''buah = ["apel", "pisang", "mangga"]
-'''buah[1] = "jeruk"'''
-'''buah.insert(0, "anggur")'''
-'''buah.append("alpukat")'''
-'''print(buah)'''
+buah[1] = "jeruk"'''
+buah.insert(0, "anggur")
+buah.append("alpukat")
+print(buah)
+'''
 
 
-
-# Struktur data tuple (kurung biasa ())
-angka1 = (1, 2, 3)
-angka2 = (4, 5, 6)
-print (angka1)
-print (angka2)
-
+''' # Struktur data tuple (kurung biasa ())
+# angka1 = (1, 2, 3)
+# angka2 = (4, 5, 6)
+# print (angka1)
+# print (angka2)
