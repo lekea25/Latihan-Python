@@ -1,0 +1,26 @@
+#Fungsi
+def sapa(nama):
+    print("Halo,", nama, "!")
+
+sapa("Andi")  #Output: Halo, Andi!
+
+
+def tambah(a, b):
+    hasil = a + b
+    return hasil
+
+jumlah = tambah(3, 5)
+print(jumlah) # Output: 8
+
+#Belajar fungsi
+
+
+        #mengisi nilai parameter
+def sapa(nama):
+    print("Halo,", nama "!")
+    print(f"Halo", {nama}!")
+# Menampilkan hasil fungsi
+
+#mengisi nilai fungsi dengan tipe data string yaitu andi
+sapa("Andi")
+# Output: Halo, Andi!
